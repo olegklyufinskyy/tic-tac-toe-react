@@ -2,7 +2,7 @@
 
 :root {
   --board-background: none;
-  --border-color: #f6546a;
+  --border-color: #09ff00;
   --border-thickness: 5px;
 }
 
@@ -25,8 +25,8 @@
   color: whitesmoke;
   font-family: "Bellefair", serif;
   font-style: italic;
-  font-weight: 700;
-  font-size: 6rem;
+  font-weight: 600;
+  font-size: 4rem;
 }
 
 .input-1 {
