@@ -1,6 +1,4 @@
-/* index.css */
-
-* {
+/* index.css */* {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -18,4 +16,19 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  /* Example: Adjust font size for smaller screens */
+  body {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  /* Example: Adjust margin for smaller screens */
+  body {
+    margin: 10px;
+  }
 }
